@@ -96,3 +96,11 @@ Each log includes:
 - level: "info", "error", etc.
 - package: e.g. "controller", "route"
 - message: descriptive context
+
+
+.......................................................
+Output Images
+.......................................................
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
